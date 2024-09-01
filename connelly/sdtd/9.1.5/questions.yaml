@@ -379,7 +379,7 @@ questions:
                                             description: Number of backups to keep
                                             schema:
                                               type: int
-                                              default: 50
+                                              default: 12
                                 - variable: envList
                                   label: Extra Environment Variables
                                   description: "Please be aware that some variables are set in the background, adding duplicates here might cause issues or prevent the app from starting..."
