@@ -2,6 +2,39 @@
     "charts": {},
     "test": {},
     "connelly": {
+        "spaceengineers": {
+            "app_readme": "<p>Space Engineers Dedicated Server.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/spaceengineers\">https://truecharts.org/charts/stable/spaceengineers</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "GameServers"
+            ],
+            "description": "Space Engineers Dedicated Server.",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/stable/spaceengineers",
+            "location": "/home/runner/_work/catalog/catalog/connelly/spaceengineers",
+            "latest_version": "9.0.0",
+            "latest_app_version": "latest",
+            "latest_human_version": "latest_9.0.0",
+            "last_update": "2024-10-35 12:35:14",
+            "name": "spaceengineers",
+            "recommended": false,
+            "title": "Spaceengineers",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/Devidian/docker-spaceengineers",
+                "https://github.com/truecharts/charts/tree/master/charts/stable/spaceengineers",
+                "https://hub.docker.com/r/devidian/spaceengineers"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/spaceengineers.webp"
+        },
         "valheim": {
             "app_readme": "<p>Valheim dedicated gameserver with automatic update and world backup support</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/valheim\">https://truecharts.org/charts/stable/valheim</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
             "categories": [
