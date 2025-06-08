@@ -100,6 +100,39 @@
                 "https://www.steampowered.com/"
             ],
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/sdtd.webp"
+        },
+        "enshrouded": {
+            "app_readme": "<p>This chart will download and install SteamCMD. It will also install 7 Days to Die and run it.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/sdtd\">https://truecharts.org/charts/stable/sdtd</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "games"
+            ],
+            "description": "This chart will download and install SteamCMD. It will also install 7 Days to Die and run it.",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/stable/enshrouded",
+            "location": "/home/runner/_work/catalog/catalog/connelly/enshrouded",
+            "latest_version": "2.1.17",
+            "latest_app_version": "enshrouded",
+            "latest_human_version": "enshrouded_2.1.17",
+            "last_update": "2024-09-01 18:40:00",
+            "name": "enshrouded",
+            "recommended": false,
+            "title": "enshrouded",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/truecharts/charts/tree/master/charts/stable/enshrouded",
+                "https://hub.docker.com/r/ich777/steamcmd",
+                "https://www.steampowered.com/"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/sdtd.webp"
         }
     }
 }
